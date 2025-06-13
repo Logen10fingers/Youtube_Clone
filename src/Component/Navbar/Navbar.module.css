@@ -1,0 +1,12 @@
+
+.search_box
+{
+     border-radius: 40px !important;
+    outline-color: blue !important;
+   
+    background-color: rgb(241, 231, 231) !important
+}
+.search_box:active
+{
+     border: 1px solid blue !important;
+}
